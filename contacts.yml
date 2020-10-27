@@ -1,0 +1,17 @@
+---
+- !ruby/object:Contact
+  phone_numbers:
+  - !ruby/object:PhoneNumber
+    kind: work
+    number: '04******50'
+  addresses:
+  - !ruby/object:Address
+    kind: home
+    street_1: b****m street
+    street_2: sth sth road
+    city: melbourne
+    state: vic
+    postal_code: '3051'
+  first_name: anil
+  middle_name: l***
+  last_name: pak
